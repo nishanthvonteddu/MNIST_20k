@@ -1,6 +1,6 @@
-# 🧠 MNIST CNN Classification with Parameter Constraints
+# MNIST CNN Classification with Parameter Constraints
 
-## 📋 Project Overview
+## Project Overview
 
 This project demonstrates the implementation of a Convolutional Neural Network (CNN) for digit classification on the MNIST dataset while adhering to strict constraints:
 
@@ -34,7 +34,7 @@ This project demonstrates the implementation of a Convolutional Neural Network (
 
 ---
 
-## 🏗️ Model Architectures
+##  Model Architectures
 
 ### Model A: Baseline (26K Parameters)
 
@@ -111,7 +111,7 @@ model = models.Sequential([
 
 ---
 
-## 🧮 Parameter Optimization Strategy
+## Parameter Optimization Strategy
 
 | Optimization Technique     | Model A | Model B | Parameters Saved | Accuracy Impact         |
 |----------------------------|---------|---------|------------------|--------------------------|
@@ -121,7 +121,7 @@ model = models.Sequential([
 
 ---
 
-## ⚙️ Training Details
+## Training Details
 
 ### Hyperparameters
 
@@ -145,7 +145,7 @@ model = models.Sequential([
 
 ---
 
-## 🔍 Key Findings & Learnings
+## Key Findings & Learnings
 
 ### Architectural Insights
 
@@ -182,7 +182,7 @@ model = models.Sequential([
 
 ---
 
-## 🎯 Conclusion
+## Conclusion
 
 - ✅ Successfully met all constraints with **Model B** (17,042 parameters, 99.4% accuracy, 20 epochs)  
 - 📉 Demonstrated parameter efficiency via architectural optimization  
