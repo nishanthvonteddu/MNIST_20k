@@ -189,16 +189,6 @@ model = models.Sequential([
 
 ---
 
-## 💡 Future Applications
-
-The strategies demonstrated here are ideal for:
-
-- 📱 Mobile AI Applications  
-- 🤖 Embedded Systems  
-- 🌐 Edge Computing Devices  
-
----
-
 ## 📁 License
 
 This project is open-sourced under the MIT License.
