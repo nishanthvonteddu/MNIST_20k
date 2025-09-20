@@ -197,10 +197,10 @@ model = models.Sequential([
 
 ## Conclusion
 
-- ✅ Successfully met all constraints with **Model B** (17,042 parameters, 99.4% accuracy, 20 epochs)  
-- 📉 Demonstrated parameter efficiency via architectural optimization  
-- 📐 Verified the effectiveness of **Global Average Pooling**  
-- 📦 Established best practices for constrained CNN design
+- Successfully met all constraints with **Model B** (17,042 parameters, 99.4% accuracy, 20 epochs)  
+- Demonstrated parameter efficiency via architectural optimization  
+- Verified the effectiveness of **Global Average Pooling**  
+- Established best practices for constrained CNN design
 
 ---
 
