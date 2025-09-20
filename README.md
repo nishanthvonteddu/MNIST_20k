@@ -38,9 +38,14 @@ This project demonstrates the implementation of a Convolutional Neural Network (
 
 - MODEL_1 
 <img width="1258" height="864" alt="Screenshot 2025-09-19 at 9 51 40 PM" src="https://github.com/user-attachments/assets/2d745079-ef9c-4cd0-848b-22e15dbdae09" />
+- GRAPH 
+<img width="1488" height="492" alt="Screenshot 2025-09-19 at 9 55 22 PM" src="https://github.com/user-attachments/assets/b6bd7787-406c-4d01-894e-609026c79f0d" />
 
 - MODEL_2
 <img width="1280" height="917" alt="Screenshot 2025-09-19 at 9 52 32 PM" src="https://github.com/user-attachments/assets/342026a0-3677-44da-b6da-522081d42ae1" />
+- GRAPH
+<img width="1486" height="486" alt="Screenshot 2025-09-19 at 9 56 17 PM" src="https://github.com/user-attachments/assets/80bb72a3-2e88-4abf-b046-2f327c957234" />
+
 
 ##  Model Architectures
 
