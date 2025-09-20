@@ -34,6 +34,14 @@ This project demonstrates the implementation of a Convolutional Neural Network (
 
 ---
 
+## Test Logs 
+
+- MODEL_1 
+<img width="1258" height="864" alt="Screenshot 2025-09-19 at 9 51 40 PM" src="https://github.com/user-attachments/assets/2d745079-ef9c-4cd0-848b-22e15dbdae09" />
+
+- MODEL_2
+<img width="1280" height="917" alt="Screenshot 2025-09-19 at 9 52 32 PM" src="https://github.com/user-attachments/assets/342026a0-3677-44da-b6da-522081d42ae1" />
+
 ##  Model Architectures
 
 ### Model A: Baseline (26K Parameters)
