@@ -7,7 +7,7 @@ This project demonstrates the implementation of a Convolutional Neural Network (
 - ✅ ≥ 99.4% validation accuracy  
 - ✅ < 20,000 trainable parameters  
 - ✅ ≤ 20 training epochs  
-- ✅ Must utilize **Batch Normalization**, **Dropout**, and **Global Average Pooling**
+
 
 ---
 
