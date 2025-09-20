@@ -12,6 +12,8 @@ This project demonstrates the implementation of a Convolutional Neural Network (
 ---
 
 ## 🏆 Results Summary
+- MODEL 1 : https://github.com/nishanthvonteddu/MNIST_20k/blob/main/model_1.ipynb
+- MODEL 2 : https://github.com/nishanthvonteddu/MNIST_20k/blob/main/model_2.ipynb
 
 ### 📊 Model Comparison
 
